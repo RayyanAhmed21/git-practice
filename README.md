@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# My Interesting Article
+
+I foung this article interesting [Missed Expectations: Where CS Students Fall Short in the Software Industry](https://knowledge.kitchen/content/courses/software-engineering/assets/crosstalk-missed-expectations.pdf)
+
+In this article, the authors present the findings of an interview conducted by three researchers at North Dakota State University among twenty-three human resource managers at various software firms regarding the areas in which recent graduates who graduated in computer science usually underperform after joining the workplace. The weaknesses noted in these employees were not concerned with their technical skills of programming but revolved around such problems as absence of practical experience in coding projects, inability to communicate effectively, poor testing abilities and very little experience with professional tools in comparison with those used in companies' everyday work.
+
+The most notable aspect for me was the fact that among the weaknesses of recent graduates there is mentioned the lack of experience in using version control. The students have been taught how to use it in order to preserve their code but never learned how to work with branching and merging within a team. This was especially interesting since we are studying this subject in our current course.
